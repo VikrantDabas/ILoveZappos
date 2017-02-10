@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <array name="sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </array>
+</resources>
